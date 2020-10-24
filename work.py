@@ -1,4 +1,7 @@
 import pandas as pd 
 import numpy as np 
 
-print("Test")
+# Read the file ProteinGroups.xlsx file
+
+df = pd.read_excel("proteinGroups.xlsx")
+df.head(10)
