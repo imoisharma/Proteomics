@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
     "python.pythonPath": "/home/moi/My-Bucket/BMS/proteomics/Proteomics/.venv/bin/python3"
+=======
+    "python.pythonPath": "/home/moi/anaconda3/bin/python"
+>>>>>>> development
 }
